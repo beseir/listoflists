@@ -1,4 +1,4 @@
-// eslint-disable-next-line react/prop-types
+
 export const List = ({url, name, ds}) => {
     return (
         <div className={"list"}>
