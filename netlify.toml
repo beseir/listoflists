@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/index.jsx"
+  [headers.values]
+    Content-Type = "text/javascript"
