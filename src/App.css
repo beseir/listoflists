@@ -1,0 +1,28 @@
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.app{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+  justify-items: center;
+  width: 100%;
+
+}
+
+.list{
+  background-color: #1a1a1a;
+  padding: 10px;
+  border-radius: 15px;
+  width: 300px;
+  margin-bottom: 10px;
+}
+.list > img{
+width: 100%;
+}
