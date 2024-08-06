@@ -2,8 +2,6 @@ import './App.css'
 import {List} from "./List.jsx";
 
 function App() {
-
-
   return (
     <div className={"app"}>
 <h2>Список списков</h2>
